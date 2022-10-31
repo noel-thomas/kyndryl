@@ -3,3 +3,5 @@
   hosts: all
   tasks:
   - shell: id
+  - debug: 
+      msg: "Hello World"
