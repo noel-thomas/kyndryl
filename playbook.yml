@@ -1,0 +1,5 @@
+---
+- name: sample code
+  hosts: all
+  tasks:
+  - shell: id
